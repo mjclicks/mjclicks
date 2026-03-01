@@ -5,7 +5,6 @@
 ---
 
 ## 👋 About Me
-<img width="657" height="687" alt="mjprofile2 jpg" src="https://github.com/user-attachments/assets/299ff24f-e879-4563-bf81-a18888f5d97a" />
 
 Hi! I'm **Manoj Jat**, a passionate photographer and videographer based in India.
 I founded **MJ Clicks** to turn your most precious moments into timeless memories —
