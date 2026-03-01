@@ -5,6 +5,7 @@
 ---
 
 ## 👋 About Me
+<img width="657" height="687" alt="mjprofile2 jpg" src="https://github.com/user-attachments/assets/299ff24f-e879-4563-bf81-a18888f5d97a" />
 
 Hi! I'm **Manoj Jat**, a passionate photographer and videographer based in India.
 I founded **MJ Clicks** to turn your most precious moments into timeless memories —
@@ -35,7 +36,7 @@ with 100% dedication, professional quality, and a heart full of creativity.
 
 ---
 
-## 📍 Based in India &nbsp;|&nbsp; ✈️ Available to Travel &nbsp;|&nbsp; 🕐 Mon–Sun, 9AM–8PM
+## 📍 Based in Pachore India &nbsp;|&nbsp; ✈️ Available to Travel &nbsp;|&nbsp; 🕐 Mon–Sun, 9AM–8PM
 
 ---
 
